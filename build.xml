@@ -5,6 +5,8 @@
 	<property name="sonar.projectName" value="SampleJavaProject" />
 	<property name="sonar.projectVersion" value="1.0" />
 	<property name="sonar.sources" value="C:\\kalyani" />
+	<property name="sonar.user" value="admin" />
+	<property name="sonar.password" value="admin" />
 	
 <target name="sonar">
 	<taskdef uri="antlib:org.sonar.ant" resource="org/sonar/ant/antlib.xml">
